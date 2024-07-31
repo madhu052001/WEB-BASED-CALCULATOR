@@ -5,6 +5,9 @@ OVERVIEW:
 
 This is a simple web-based calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division and modulus. It also includes features like clearing the screen and deleting the last entry.
 
+
+
+
 FEATURES:
 
 
@@ -17,6 +20,9 @@ Clear Function: Quickly reset the calculator screen to perform a new calculation
 Backspace: Allows you to delete the last digit or operation entered.
 
 
+
+
+
 PRE-REQUISITES:
 
 To run this project locally, you'll need:
@@ -24,6 +30,9 @@ To run this project locally, you'll need:
 A modern web browser (e.g., Chrome, Firefox, Safari)
 
 Text editor or IDE (e.g., Visual Studio Code)
+
+
+
 
 
 
@@ -42,6 +51,9 @@ web-based-calculator :
 index.html: Contains the HTML structure of the calculator.
 style.css: Handles the styling and layout of the calculator.
 script.js: Contains the JavaScript code that manages the calculator's operations and user interactions.
+
+
+
 
 
 
